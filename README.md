@@ -3,7 +3,7 @@ All the basics questiomns related to CSS
 
 Problems
 #### How to add comments on css?
-Ans. To comment in CSS, simply place your plain text inside /* */ marks. This tells  the browser that they are notes and should not be rendered on the front end.
+Ans. In CSS we out our comment text in /* */ marks. This tells  the browser that they are notes and should not be rendered on the front end. Hence we do comments in css.
 
 #### Why do we use pseudo-class?
 Ans. A pseudo-class is used to define a special state of an element.
@@ -188,4 +188,4 @@ Ex2. th, td, p.red, div#firstred { color: red; }
 
 
 #### 19. What are the differences between relative and absolute in CSS?
-Ans:~ position: relative places an element relative to its current position without changing the layout around it, whereas position: absolute places an element relative to its parent's position and changing the layout around it.
+Ans:~ Whe we use "position:relative" it places the element relative to its current position without changing the layout around it, whereas "position:absolute" places an element relative to its parent's position and changing the layout around it.
